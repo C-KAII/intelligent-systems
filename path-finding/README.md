@@ -4,8 +4,6 @@
 
 This project involves developing an intelligent agent that navigates a topographic map to find an optimal path from a starting point to a destination using various search algorithms. The robot navigates based on terrain types and movement costs.
 
----
-
 ## Problem Description
 
 ### The Task
@@ -44,8 +42,6 @@ Develop an intelligent agent to navigate an NxN topographic map consisting of no
   - Greedy Hill Climbing (Steepest Ascent)
   - Random Restart Hill Climbing
   - Randomised Hill Climbing
-
----
 
 ## Implementation Requirements
 

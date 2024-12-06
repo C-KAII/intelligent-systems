@@ -4,15 +4,11 @@
 
 This task involves implementing a neural network from scratch to classify images from the CIFAR-10 dataset. The neural network must be trained using stochastic gradient descent with specified hyperparameters.
 
----
-
 ## Objectives
 
 - Implement a neural network with three layers.
 - Train and evaluate using the CIFAR-10 dataset.
 - Experiment with different learning rates and mini-batch sizes.
-
----
 
 ## Implementation Requirements
 
@@ -30,8 +26,6 @@ This task involves implementing a neural network from scratch to classify images
   - Accuracy per epoch.
   - Final weights after training.
   - Graphs for test accuracy vs. epochs and mini-batch size.
-
----
 
 ## Notes
 
