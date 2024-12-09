@@ -32,6 +32,8 @@ Develop an intelligent agent to navigate an NxN topographic map consisting of no
   - Visual representation of the path
   - Any additional statistics
 
+![astarinput3_output](/images/astarinput3_output.webp)
+
 ## Algorithms to Implement
 
 1. **Breadth-First Search (BFS)**
